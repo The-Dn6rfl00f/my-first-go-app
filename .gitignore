@@ -1,0 +1,9 @@
+*.exe
+*.dll
+*.test
+*.out
+go.work
+.vscode/
+.idea/
+.env
+*.env.local
